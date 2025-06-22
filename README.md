@@ -15,8 +15,6 @@ Add my discord bots, https://cozy.gabereal.co.uk and [https://cozycrashes.lunarc
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=14BAE4&width=435&lines=I+am+british)](https://git.io/typing-svg)
 
-reeeee
-
 ![Gabe_Real](https://github-readme-stats.vercel.app/api?username=Gabe-Real&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![Gabe_Real](https://github-readme-stats.vercel.app/api/top-langs?username=Gabe-Real&show_icons=true&theme=tokyonight&layout=compact)
