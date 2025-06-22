@@ -1,13 +1,13 @@
 # Ey up
 
 
-I make software.
+I make things.
 
 <h3 align="left">
   You can contact me on <a href='https://discord.gabereal.co.uk'>Discord</a> or at gaberealj10@gmail.com
 </h3>
 
-I code kotlin, Java and Java script - *andddd* maybe an occasional bit of python. I also made that one discord bot that you can invite [here](https://cozy.gabereal.co.uk) yeah very good recommend yes yes.
+I code kotlin, Java and Java script - *andddd* a lot of other stuff that you can see in the images. I also made that one discord bot that you can invite [here](https://cozy.gabereal.co.uk) yeah very good recommend yes yes.
 
 Sometimes I go outise and touch grass 🍃
 
