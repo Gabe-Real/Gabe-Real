@@ -14,4 +14,5 @@ servers to use.
 ## CombatTweaks*
 
 
-###### *Private mod, ^Closed source but public
+###### *Private mod
+###### ^Closed source but public
