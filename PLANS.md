@@ -1,4 +1,4 @@
-# Mod ideas/plans *.md:tm:*
+# Mod ideas/plans *.md™️*
 
 ## CompiledCombat
 - Add crystal hammer
