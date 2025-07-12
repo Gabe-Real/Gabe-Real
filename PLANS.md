@@ -10,9 +10,10 @@ servers to use.
 - Add dynamite 
 - Add some sort of cleaver or big weapon
 - Add remote explosive
+- Flamethrower
 
 ## CombatTweaks*
+- Fix vanilla lootables
+- 
 
-
-###### *Private mod\nhsllo
-###### ^Closed source but public
+###### *Private mod | ^Closed source but public
